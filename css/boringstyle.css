@@ -1,14 +1,5 @@
-h2.intro {
-  color: blue;
-  font-style: oblique;
-  font-size: 25px;
-}
 
-p.intro {
-  color: blue;
-  font-style: oblique;
-  font-size: 25px;
-}
+
 
 img.intro {
   border: 1px solid #ddd;
@@ -16,3 +7,8 @@ img.intro {
   padding: 5px;
   width: 150px;
 }
+
+.intro {
+  color: blue;
+  font-style: oblique;
+  font-size: 25px;
